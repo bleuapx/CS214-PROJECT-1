@@ -33,6 +33,6 @@ class Main {
       } else {
         System.out.println("You lost!");
       }
-
-     }
+    }
+  }
 }
